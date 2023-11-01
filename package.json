@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.3.4",
-    "vue-analytics-chart-widgets": "^1.1.2"
+    "vue-analytics-chart-widgets": "^1.1.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
